@@ -1,0 +1,14 @@
+C:\Users\bruno\Documents\Development\ETL-Repo-master\ETL-Repo-master\FarmSystem.Test1\obj\Debug\FarmSystem.Test.csprojAssemblyReference.cache
+C:\Users\bruno\Documents\Development\ETL-Repo-master\ETL-Repo-master\FarmSystem.Test1\obj\Debug\FarmSystem.Test.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Documents\Development\ETL-Repo-master\ETL-Repo-master\FarmSystem.Test1\bin\Debug\FarmSystem.Test1.exe.config
+C:\Users\bruno\Documents\Development\ETL-Repo-master\ETL-Repo-master\FarmSystem.Test1\bin\Debug\FarmSystem.Test1.exe
+C:\Users\bruno\Documents\Development\ETL-Repo-master\ETL-Repo-master\FarmSystem.Test1\bin\Debug\FarmSystem.Test1.pdb
+C:\Users\bruno\Documents\Development\ETL-Repo-master\ETL-Repo-master\FarmSystem.Test1\obj\Debug\FarmSystem.Test1.exe
+C:\Users\bruno\Documents\Development\ETL-Repo-master\ETL-Repo-master\FarmSystem.Test1\obj\Debug\FarmSystem.Test1.pdb
+C:\Users\Italo\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\ETL-Repo-master\FarmSystem.Test1\bin\Debug\FarmSystem.Test1.exe.config
+C:\Users\Italo\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\ETL-Repo-master\FarmSystem.Test1\bin\Debug\FarmSystem.Test1.exe
+C:\Users\Italo\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\ETL-Repo-master\FarmSystem.Test1\bin\Debug\FarmSystem.Test1.pdb
+C:\Users\Italo\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\ETL-Repo-master\FarmSystem.Test1\obj\Debug\FarmSystem.Test.csprojAssemblyReference.cache
+C:\Users\Italo\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\ETL-Repo-master\FarmSystem.Test1\obj\Debug\FarmSystem.Test.csproj.CoreCompileInputs.cache
+C:\Users\Italo\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\ETL-Repo-master\FarmSystem.Test1\obj\Debug\FarmSystem.Test1.exe
+C:\Users\Italo\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\ETL-Repo-master\FarmSystem.Test1\obj\Debug\FarmSystem.Test1.pdb
